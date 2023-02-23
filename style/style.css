@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 :root {
-    --azul-claro: #fdc322;
+    --azul-claro: #22D4FD;
     --branco: #f6f6f6;
     --preto: black;
     --cor-horver-btn: #272727;
@@ -125,7 +125,7 @@ body {
         padding: 5%;
     
     .apresentacao__links__navagacao{
-            padding: 15px 5px;
+            padding: 15px 5000px;
     }
     .apresentacao__conteudo {
         width: auto;
