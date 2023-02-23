@@ -123,11 +123,12 @@ body {
     .apresentacao{
         flex-direction: column-reverse;
         padding: 5%;
+    }
     .apresentacao__links__h2{
         font-sisze: 1rem;
     }
     .apresentacao__links__navagacao{
-            padding: 15px 0;
+        padding: 15px 0;
             font-size: 1rem;
     }
     .apresentacao__conteudo {
