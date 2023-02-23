@@ -123,6 +123,8 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
     
+    .apresentacao__links__navagacao{
+            padding: 15px 5px;
     }
     .apresentacao__conteudo {
         width: auto;
